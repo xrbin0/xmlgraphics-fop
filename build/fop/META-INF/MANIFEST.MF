@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.5
+Created-By: 1.8.0_292-8u292-b10-0ubuntu1~18.04-b10 (Private Build)
+Main-Class: org.apache.fop.cli.Main
+Build-Id: 20210702-115643-CST (xrbin [Linux 5.4.0-77-generic amd64, Ja
+ va 1.8.0_292-8u292-b10-0ubuntu1~18.04-b10, Target Java 1.5])
+
+Name: org/apache/fop/
+Specification-Title: XSL-FO - Extensible Stylesheet Language
+Specification-Version: 1.1
+Specification-Vendor: World Wide Web Consortium
+Specification-URL: http://www.w3.org/TR/xsl
+Implementation-Title: Apache FOP
+Implementation-Version: 1.1
+Implementation-Vendor: The Apache Software Foundation (http://xmlgraph
+ ics.apache.org/fop/)
+
